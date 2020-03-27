@@ -1,0 +1,1 @@
+user1 = User.create(:username => "oswald", :password => "1234")
